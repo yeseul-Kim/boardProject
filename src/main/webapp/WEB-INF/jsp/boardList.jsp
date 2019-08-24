@@ -106,11 +106,11 @@ $(function(){
  <thead>
   
 	<tr>
-		<th>번호</th> 
-		<th>제목</th> 
-		<th>글쓴이</th> 
-		<th>날짜</th> 
-		<th>조회</th> 
+		<th></th> 
+		<th></th> 
+		<th></th> 
+		<th></th> 
+		<th></th> 
 		
 	</tr>
  </thead>
@@ -119,74 +119,74 @@ $(function(){
 	
 	<tr>
 		
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	<tr>
-		<td>1</td> 
-		<td>제목입니다 제목입니다.</td> 
-		<td>김예슬</td> 
-		<td>2019-08-20</td> 
-		<td>3</td>
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td> 
+		<td></td>
 	</tr>
 	
  </tbody>
